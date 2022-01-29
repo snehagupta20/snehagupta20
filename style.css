@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* position: fixed; */
+}
+.main {
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(https://www.teahub.io/photos/full/237-2379950_cool-gray-backgrounds-grey-wallpaper-1080..jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 10px;
+    background-color: black;
+    /* position: fixed; */
+
+}
+.navlinks{
+    list-style: none;
+    background-color: black;
+    /* position: fixed; */
+}
+.navlinks li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 20px 30px;
+}
+.navlinks li a{
+    transition: all 0.3s ease 0s;
+    padding: 60px;
+    text-decoration: none;
+    color: white;
+}
+.navlinks li a:hover{
+    color: darkcyan;
+
+}
+/* hdhjdsjdnjhnmds */
+.name{
+    list-style: none;
+    background-color: black;
+}
+.name li{
+    list-style: none ;
+    display: inline-block ;
+    padding: px 30px;
+    margin: 20px 30px;
+    color: white;
+}
+.heading{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color:white ;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+.heading .para{
+    padding-right: 300px;
+    /* padding-bottom: 500px; */
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    line-height: 25px;
+    color: white;
+}
+.heading h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 30px;
+    margin-top: 18%;
+    letter-spacing: 1px;
+}
+.heading .hobbies{
+    width: 175px;
+    height: 50px;
+    background: black;
+    border: none;
+    /* margin-bottom: 400000px; */
+    margin-left: 30px;
+    font-size: 16px;
+    color: white;
+    border-radius: 400px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.heading .hobbies a{
+    text-decoration: none;
+    color: white;
+    transition: 1s ease; 
+}
+.hobbies:hover{
+    background-color: darkcyan;
+}
+.heading .skills{
+    width: 160px;
+    height: 50px;
+    background: black;
+    border: none;
+    /* margin-bottom: 400000px; */
+    margin-left: 60px;
+    font-size: 16px;
+    color: white;
+    border-radius: 400px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.heading .skills a{
+    text-decoration: none;
+    color: white;
+    transition: 1s ease; 
+}
+.skills:hover{
+    background-color: darkcyan;
+}
+.myimg{
+    width: 330px;
+    height: 450px;
+    position: absolute;
+    align-items: flex-end;
+    border-radius: 100%;
+    border-width: 1000000cm;
+}
+.imgmy{
+    position: absolute;
+    align-items: center ;
+    left: 1000px;
+    bottom: 550px;
+    border: black;
+    border-style:double ;
+}

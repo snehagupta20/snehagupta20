@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* position: fixed; */
+}
+.main {
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(https://www.teahub.io/photos/full/237-2379950_cool-gray-backgrounds-grey-wallpaper-1080..jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.mainthing{
+    top: 100px;
+    margin: auto;
+    margin-top: 80px;
+    margin-right:50px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 10px;
+    background-color: black;
+    /* position: fixed; */
+
+}
+.navlinks{
+    list-style: none;
+    background-color: black;
+    /* position: fixed; */
+}
+.navlinks li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 20px 30px;
+}
+.navlinks li a{
+    transition: all 0.3s ease 0s;
+    padding: 60px;
+    text-decoration: none;
+    color: white;
+}
+.navlinks li a:hover{
+    color: darkcyan;
+
+}
+/* hdhjdsjdnjhnmds */
+.name{
+    list-style: none;
+    background-color: black;
+}
+.name li{
+    list-style: none ;
+    display: inline-block ;
+    padding: px 30px;
+    margin: 20px 30px;
+    color: white;
+}
+.heading{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+    left: 400px;
+    top: 40px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.dance{
+    width: 60px;
+    height: 70px;
+    position:absolute ;
+    /* align-items:center; */
+    border-radius: 100%;
+    border-width: 1000000cm;
+    left: 1200px;
+    bottom: 300px;
+    border: black;
+    border-style:double ;
+}
+.travel{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    /* align-items:center; */
+    border-radius: 100%;
+    border-width: 1000000cm;
+    left: 900px;
+    bottom: 300px;
+    border: black;
+    border-style:double ;
+}
+.gdsc{
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    /* align-items:center; */
+    border-radius: 100%;
+    border-width: 1000000cm;
+    left: 300px;
+    bottom: 300px;
+    border: black;
+    border-style:double ;
+}
+.friends{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    /* align-items:center; */
+    border-radius: 100%;
+    border-width: 1000000cm;
+    left: 600px;
+    bottom: 300px;
+    border: black;
+    border-style:double ;
+}
+.code{
+    width: 860px;
+    margin: auto;
+    color: white;
+    bottom: 60px;
+    position: relative;
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    font-size: 18px;
+    margin-top: 18%;
+}
+.hang{
+    width: 310px;
+    margin: auto;
+    color: white;
+    bottom: 340px;
+    position: relative;
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    font-size: 17px;
+    margin-top: 18%;
+}
+.trav{
+    left: 905px;
+    margin: auto;
+    color: white;
+    bottom: 650px;
+    position: relative;
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    /* font-size: 10000000px; */
+    margin-top: 18%; 
+} 
+.dancing{
+    left: 1190px;
+    margin: auto;
+    color: white;
+    bottom: 940px;
+    position: relative;
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    /* font-size: 10000000px; */
+    margin-top: 18%; 
+} 
