@@ -8,8 +8,6 @@ Welcome to my GitHub profile!
 - Pursuing BTech in Computer Science and Artificial Intelligence Engineering at Netaji Subhas University of Technology, Delhi (2021-2025).
 
 💼 **Professional Experience:**
-- **Co-Founder and Core Member** of Web3.Build at NSUT (February 2023 - Present)
-  - Increased the society’s social media reach and managed Web3 events for more than 100 people.
 - **Software Developer Intern** at Indigo
   - Created a website for logging medical checkups of pilots and cabin crew using ReactJS, Next.js, and TypeScript.
   - Developed the sidebar, navbar, and filters, and integrated APIs.
