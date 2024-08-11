@@ -17,24 +17,8 @@ Welcome to my GitHub profile!
 - **Tech Stack:** C++, Python, DSA, HTML, CSS, JavaScript, RDBMS, MySQL
 - **Softwares:** Git, GitHub, PowerBI
 - **Frameworks / Libraries:** Node.js, React.js, jQuery, Bootstrap, Tailwind CSS
-- **Familiar:** Matlab, Java, PowerBI
-
-🌐 **Languages:**
-- English
-- Japanese (N5) (N4 ongoing)
-- Hindi
-
-## Interests
-
-🚀 I have a keen interest in:
-- Learning new languages
-- Delivering results under pressure
-- Highly self-motivated tasks
-- Creative and diverse solutions in coding rather than standard ones
 
 ## Goals
-
-🎯 At 21, I aim to be a software engineer earning 30 lakhs per annum at a company with great work-life balance like Google. Some of my classmates have already been placed at Google, and I am motivated to achieve the same.
 
 💡 I strive to learn 10 new things related to tech every day!
 
