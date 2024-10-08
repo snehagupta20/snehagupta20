@@ -10,10 +10,10 @@
 
 ## 🌐 Socials:
 
-<a href="https://linkedin.com/in/sneha-gupta-2004abcdef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-gupta-2004abcdef" height="25" width="35" /></a>
-<a href="https://medium.com/@gsneha20012004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gsneha20012004" height="25" width="35" /></a>
-<a href="https://www.leetcode.com/namastesneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namastesneha" height="25" width="35" /></a>
-<a href="https://www.codechef.com/users/namastesneha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="namastesneha" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/sneha-gupta-2004abcdef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-gupta-2004abcdef" height="25" width="35" /></a>
+<a href="https://medium.com/@gsneha20012004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gsneha20012004" height="25" width="35" /></a>
+<a href="https://www.leetcode.com/namastesneha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namastesneha" height="25" width="35" /></a>
+<a href="https://www.codechef.com/users/namastesneha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="namastesneha" height="25" width="35" /></a>
 
 
 # 💻 Tech Stack:
